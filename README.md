@@ -1,5 +1,5 @@
 
-# DALL-E and ChatGPT Voice Assistant App
+# ForYou Voice Assistant App
 
 This is a Flutter application that utilizes the DALL-E and ChatGPT APIs to allow users to provide voice instructions and receive text-based responses from the app.
 
