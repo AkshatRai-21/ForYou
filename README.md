@@ -43,7 +43,7 @@ flutter pub get
 ```
  to install the dependencies.
 
-3.Open the lib/constants.dart file and replace the YOUR_DALLE_API_KEY and YOUR_CHATGPT_API_KEY placeholders with your actual API keys.
+3.Open the ```lib/secrets.dart``` file and replace the ```openAIAPIkey``` placeholders with your actual API keys.
 
 4.Connect your Android or iOS device to your computer and run
 ```bash 
