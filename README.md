@@ -46,7 +46,7 @@ flutter run
 ```
 Then run the following commands to run your app on web :
 ```bash
-   flutter run -d chrome --web-renderer html (to see the best output)
+flutter run -d chrome --web-renderer html (to see the best output)
 ```
  
 
