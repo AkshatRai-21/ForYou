@@ -52,7 +52,7 @@ Then run the following commands to run your app on web :
 ```
  
 
-     ## How to Use the App
+ ## How to Use the App
 1.Launch the app on your device and grant microphone permissions if prompted.
 
 2.Tap the microphone icon to start recording your voice input.
