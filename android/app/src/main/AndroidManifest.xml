@@ -11,7 +11,7 @@
     </intent>
     </queries>
    <application
-        android:label="For You"
+        android:label="See With Sound"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
