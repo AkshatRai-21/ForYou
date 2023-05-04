@@ -1,11 +1,9 @@
 
 # ForYou Voice Assistant App
 
-This is a Flutter application that utilizes the DALL-E and ChatGPT APIs to allow users to provide voice instructions and receive text-based responses from the app.
+Responsive Flutter App - Works on Android, iOS & Web! 
 
-The app uses the device's microphone to capture the user's voice input, which is then processed by the DALL-E and ChatGPT APIs to generate a response. If the response is not an image, the app will read out the response to the user.
-
-
+Our app is designed to help visually impaired people navigate their daily lives more easily. It utilizes DALL-E and ChatGPT APIs to allow voice instructions and text-based responses. The app reads out the response if it is not an image. This provides an accessible way for visually impaired individuals to communicate and access information.
 
 
 
@@ -15,10 +13,7 @@ The app uses the device's microphone to capture the user's voice input, which is
 - Uses ChatGPT API 
 - Take voice command
 - Readout the result 
-- Works on both android and ios
-
-
-
+- Works on android , ios and web
 
 
 
@@ -35,7 +30,7 @@ Once you have these requirements, follow these steps to run the application:
 1.Clone the repository to  your local machine using the command:
 
 ```bash
-  git clone  https://github.com/AkshatRai-21/Voice-Assistant.git
+  git clone  https://github.com/AkshatRai-21/SeeWithSound.git
 ```
 2.Navigate to the project directory and run
 ```bash
@@ -49,13 +44,15 @@ flutter pub get
 ```bash 
 flutter run
 ```
- to build and run the     application on your device.
-
-     
-
-
+Then run the following commands to run your app on web :
+```bash
     
-## How to Use the App
+    flutter run -d chrome --web-renderer html (to see the best output)
+
+```
+ 
+
+     ## How to Use the App
 1.Launch the app on your device and grant microphone permissions if prompted.
 
 2.Tap the microphone icon to start recording your voice input.
